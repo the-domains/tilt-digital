@@ -1,0 +1,28 @@
+name: Tilt Digital
+favicon: null
+layout_spectrum: 0.549168111756444
+typography_spectrum: 0.9048844843637198
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.965215313481167
+  lightness: 0.5339116256218404
+  saturation: 0.3157314534764737
+  rhythmicContrast: 0.2932123951613903
+purpose: []
