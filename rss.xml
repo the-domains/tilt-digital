@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Tilt Digital]]></title>
+        <description><![CDATA[Tilt Digital]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 11 Feb 2016 23:14:51 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://tiltdigital.co.nz/images/tilt-1600x1000-1.jpg">]]></description>
+            <link>http://tiltdigital.co.nz/</link>
+            <guid isPermaLink="false">b2d15ac8-e95c-45c5-a5ab-0fbb8f2d4db5</guid>
+            <pubDate>Thu, 11 Feb 2016 23:14:51 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
