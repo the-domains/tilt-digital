@@ -2,10 +2,24 @@
     <channel>
         <title><![CDATA[Tilt Digital]]></title>
         <description><![CDATA[Tilt Digital]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://tiltdigital.co.nz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 11 Feb 2016 23:14:51 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 17 Feb 2016 00:51:00 GMT</lastBuildDate>
+        <atom:link href="http://tiltdigital.co.nz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/79e885fc-2dd0-49bf-9d11-5a963774ec52.jpg">]]></description>
+            <link>http://tiltdigital.co.nz/e9c9cb61-ed58-4c67-b043-20860d9ec186/index.html</link>
+            <guid isPermaLink="false">e9c9cb61-ed58-4c67-b043-20860d9ec186</guid>
+            <pubDate>Wed, 17 Feb 2016 00:50:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://tiltdigital.co.nz/images/tilt-1600x1000-2.jpg">]]></description>
+            <link>http://tiltdigital.co.nz/images/tilt-1600x1000-2.jpg</link>
+            <guid isPermaLink="false">b4a0d6aa-f26d-49b7-963c-9f9e02cda5df</guid>
+            <pubDate>Thu, 11 Feb 2016 23:26:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://tiltdigital.co.nz/images/tilt-1600x1000-1.jpg">]]></description>
