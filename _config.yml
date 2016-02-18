@@ -1,7 +1,7 @@
 name: Tilt Digital
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.57425
+typography_spectrum: 0.25266
 title: Tilt Digital
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#fefefe'
     - '#2f3438'
     - '#ccced0'
-  brandStrength: 0.5
-  lightness: 0.5
+  brandStrength: 1
+  lightness: 0
   saturation: 0.5
-  rhythmicContrast: 0.5
+  rhythmicContrast: 0
 purpose: []
